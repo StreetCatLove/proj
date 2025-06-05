@@ -4,7 +4,7 @@ title: "Street Cat Projects"
 description: "a directory of Street Cat Love's projects"
 logo: 'assets/images/avatar-icon.jpg'
 favicon: 'assets/images/favicon.ico'
-baseurl: /photo
+baseurl: /proj
 google_analytics: 
 disqus: 
 mailchimp-list: 
