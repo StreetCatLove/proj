@@ -1,7 +1,7 @@
 # Site
-name: "Street Cat Photo Blog"
-title: "Street Cat Photo Blog"
-description: "Pictures of Cats"
+name: "Street Cat Projects"
+title: "Street Cat Projects"
+description: "a directory of Street Cat Love's projects"
 logo: 'assets/images/avatar-icon.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: /photo
@@ -39,7 +39,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 24
 paginate_path: /page:num/
     
 # Other
